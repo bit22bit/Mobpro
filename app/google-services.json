@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17531462593",
+    "project_id": "mobpro-b0a05",
+    "storage_bucket": "mobpro-b0a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17531462593:android:42eb5a064abea7eee64540",
+        "android_client_info": {
+          "package_name": "com.bits.mobpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17531462593-73js95p75lh6ms2vfi7s8ba3175iajrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VovY9kvae0PLYJ1HIi8cR6AINJRYWOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17531462593-73js95p75lh6ms2vfi7s8ba3175iajrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
